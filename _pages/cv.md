@@ -35,3 +35,4 @@ Research Experience
 Misc
 ======
 * Reviewer in NeurIPS2023.
+* The Participant of the first Training Course on Neural Computational Modeling and Programming, Organized by Si Wu et al., in 2023.
