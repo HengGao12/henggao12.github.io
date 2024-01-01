@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Short Bio
 Welcome to my personal homepage! My current research interests include Computer Vision, Machine Learning and Machine Learning Theory, etc. \
 Trying to carve out a path for the AI future!
 
