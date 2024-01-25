@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage! My current research interests include Computer Vision, Machine Learning and Machine Learning Theory, etc. \
-Trying to carve out a path for the AI future!
+Welcome to my personal homepage! My current research interests include Computer Vision, Machine Learning Theory, etc. And my work mainly focus on the topic about Out-of-Distribution Detection and Generalization at present.
+
 
 
 # Education
