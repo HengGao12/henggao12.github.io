@@ -25,7 +25,7 @@ Research Experience
 * A Biological Interpretable One-shot Pruning Framework for Spiking Neural Networks, 2023.3-2023.8
   * Fudan University
   * Supervisor: Professor, Yuguo Yu
-  * Summary: In this research, we develop a biologically interpretable magnitude-based pruning approach for Spiking Neural Networks (SNNs). Experimentally, it can be found that after removing some weak neurons with relatively small weight sum, the test accuracy of SNNs on the MNIST dataset is slightly improved. In addition, through visualizing the feature maps of the middle layers of the SNNs by the t-SNE algorithm, it can be found that the representation ability of the network is not significantly affected by the removal of weak neurons. However, after removing the mid and hub neurons, the feature extraction ability of the network decreases significantly. At the same time, the image recognition accuracy of the model dropped as well.
+  * Summary: In our research, we develop a biologically interpretable magnitude-based pruning strategy for Spiking Neural Networks (SNNs). Experimentally, it can be found that after removing some weak neurons with relatively small weight sum, the test accuracy of SNNs on MNIST dataset is slightly improved. Through visualizing the feature maps of the middle layers of the SNNs by the t-SNE algorithm, it can be found that the representation ability of the network is not significantly affected by the removal of weak neurons. However, after removing the mid and hub neurons, the feature extraction ability of the network decreases significantly. At the same time, the image recognition accuracy of the model dropped as well.
 
 * Multi-scan Point Cloud Segmentation, 2022.10-2023.1
   * Fudan University
