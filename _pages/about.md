@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my personal homepage! \
-Currently, my work mainly focus on the topic about **Out-of-Distribution Detection**.
+Currently, my work mainly focus on the topic about **Out-of-Distribution Detection and its Applications**.
 
 
 
