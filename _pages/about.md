@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage! \
+Welcome to my personal homepage!  
 
 My ongoing projects (since mid 2023) focus on:
 - **Outlier Exposure (OE) Training-based Out-of-Distribution Detection**: developing learning frameworks to tackle the problems in current OE training, especially for the outlier synthesis-based methods.
