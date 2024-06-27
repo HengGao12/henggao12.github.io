@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 Welcome to my personal homepage! \
-Currently, my work mainly focus on the topic about **Out-of-Distribution Detection and its Applications**.
 
+My ongoing projects (since mid 2023) focus on:
+- **Outlier Exposure (OE) Training-based Out-of-Distribution Detection**: developing learning frameworks to tackle the problems in current OE training, especially for the outlier synthesis-based methods.
+- **Out-of-Distribution Theory**: developing analytical framework for guaranteeing OOD Detection.
+- **Anomaly Segmentation on the Road**: appying OOD Detection methods to segment anomalies on the road.
 
-
-# Education
-- Master of Applied Mathematics, Fudan University, 2022-Present.
-- Bachelor of Maths and Applied Mathematics, Shanghai University (SHU), 2018-2022.
+## News
+Continuously updating...
