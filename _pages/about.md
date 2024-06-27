@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my personal homepage! \
-My current research interests include Computer Vision, Machine Learning Theory, etc. And my work mainly focus on the topic about **Out-of-Distribution Detection** at present.
+Currently, my work mainly focus on the topic about **Out-of-Distribution Detection**.
 
 
 
