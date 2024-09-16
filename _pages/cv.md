@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Math and Applied Mathematics, College of Sciences, Shanghai University, 2018-2022.
-* M.S. in Applied Mathematics, Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, 2022-Present.
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -30,6 +25,11 @@ Research Experience
   * Fudan University
   * Supervisor: Young Researcher, Jian Pu
   * [SemantcKITTI Multiple Scans Segmentation Competition](https://codalab.lisn.upsaclay.fr/competitions/6280#results).
+
+Education
+======
+* B.S. in Math and Applied Mathematics, College of Sciences, Shanghai University, 2018-2022.
+* M.S. in Applied Mathematics, Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, 2022-Present.
 
 Misc
 ======
