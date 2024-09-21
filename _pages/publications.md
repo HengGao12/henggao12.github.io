@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 <style>
         a.blue-text {
         color: #87CEEB;
@@ -15,7 +14,6 @@ author_profile: true
 <a>**</a> indicates revised and submitted to other conferences
 
 <ul>
-
 <li>
 <p><b>Knowledge Distillation from 3D to Bird’s-Eye-View for LiDAR Semantic Segmentation</b>
 <br />Feng Jiang, Heng Gao, Shoumeng Qiu, Haiqiang Zhang, Ru Wan and Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
@@ -38,7 +36,11 @@ author_profile: true
 <br /> Technical Report, 2024. <br /> 
 <a href="https://arxiv.org/abs/2406.16525" class="blue-text">Paper</a> |
 <a href="https://github.com/HengGao12/OAML" class="blue-text">Code</a> |  
+</p>
+</li>
+</ul>
 
+<ul>    
 <li>
 <p><b>Towards Open-set Camera 3D Object Detection
 </b>
@@ -48,7 +50,6 @@ author_profile: true
 <a href="https://github.com/NickHezhuolin/OS-Det3D" class="blue-text">Code</a> |
 </p>
 </li>
-
 </ul>
 
 {% if site.author.googlescholar %}
