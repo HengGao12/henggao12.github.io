@@ -43,7 +43,7 @@ author_profile: true
 <br />Heng Gao*, Zhuolin He*, Shoumeng Qiu, Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> Technical Report, 2024. <br /> 
 <a href="https://arxiv.org/abs/2406.16525" class="blue-text">Paper</a> |
-<a href="https://github.com/HengGao12/OAML" class="blue-text">Code</a> |
+<a href="https://github.com/HengGao12/OAML" class="blue-text">Code</a> |  
 
 <ul>
 <li>
