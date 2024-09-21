@@ -16,7 +16,7 @@ author_profile: true
 <ul>
 <li>
 <p><b>Knowledge Distillation from 3D to Bird’s-Eye-View for LiDAR Semantic Segmentation</b>
-<br /><strong>Feng Jiang</strong>, Heng Gao, Shoumeng Qiu, Haiqiang Zhang, Ru Wan and Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
+<br />Feng Jiang, <strong>Heng Gao</strong>, Shoumeng Qiu, Haiqiang Zhang, Ru Wan and Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> IEEE International Conference on Multimedia and Expo (<strong>ICME</strong>), 2022. <br /> 
 <a href="https://ieeexplore.ieee.org/abstract/document/10220057" class="blue-text">Link</a> |
 <a href="https://arxiv.org/pdf/2304.11393" class="blue-text">Paper</a> |
@@ -32,7 +32,7 @@ author_profile: true
 <li>
 <p><b>OAML: Outlier Aware Metric Learning for OOD Detection Enhancement (**)
 </b>
-<br /><strong>Heng Gao</strong>*, <strong>Zhuolin He</strong>*, Shoumeng Qiu, Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
+<br /><strong>Heng Gao</strong>*, Zhuolin He*, Shoumeng Qiu, Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> Technical Report, 2024. <br /> 
 <a href="https://arxiv.org/abs/2406.16525" class="blue-text">Paper</a> |
 <a href="https://github.com/HengGao12/OAML" class="blue-text">Code</a> |  
@@ -44,7 +44,7 @@ author_profile: true
 <li>
 <p><b>Towards Open-set Camera 3D Object Detection
 </b>
-<br /><strong>Zhuolin He</strong>, Xinrun Li, Heng Gao, Jiachen Tang, Shoumeng Qiu, Wenfu Wang, Lvjian Lu, Xiuchong Qiu, Xiangyang Xue, Jian Pu
+<br />Zhuolin He, Xinrun Li, <strong>Heng Gao</strong>, Jiachen Tang, Shoumeng Qiu, Wenfu Wang, Lvjian Lu, Xiuchong Qiu, Xiangyang Xue, Jian Pu
 <br /> Technical Report, 2024. <br /> 
 <a href="https://arxiv.org/pdf/2406.17297" class="blue-text">Paper</a> |
 <a href="https://github.com/NickHezhuolin/OS-Det3D" class="blue-text">Code</a> |
