@@ -17,7 +17,7 @@ author_profile: true
     }
 </style>
 
-<a>*</a> indicates co-first authour
+<a>*</a> indicates co-first authour  
 <a>**</a> indicates revised and submitted to other conferences.
 
 <ul>
