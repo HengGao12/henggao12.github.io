@@ -16,7 +16,7 @@ author_profile: true
 <ul>
 <li>
 <p><b>Knowledge Distillation from 3D to Bird’s-Eye-View for LiDAR Semantic Segmentation</b>
-<br /><strong>Feng Jiang</strong>strong>, Heng Gao, Shoumeng Qiu, Haiqiang Zhang, Ru Wan and Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
+<br /><strong>Feng Jiang</strong>, Heng Gao, Shoumeng Qiu, Haiqiang Zhang, Ru Wan and Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> IEEE International Conference on Multimedia and Expo (<strong>ICME</strong>), 2022. <br /> 
 <a href="https://ieeexplore.ieee.org/abstract/document/10220057" class="blue-text">Link</a> |
 <a href="https://arxiv.org/pdf/2304.11393" class="blue-text">Paper</a> |
