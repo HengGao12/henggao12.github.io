@@ -52,10 +52,6 @@ author_profile: true
 </li>
 </ul>
 
-{% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=GYUpPI4AAAAJ}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
 {% for post in site.publications reversed %}
