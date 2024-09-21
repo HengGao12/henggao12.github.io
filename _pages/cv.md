@@ -8,12 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Research Experience
 ======
