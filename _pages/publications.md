@@ -45,6 +45,8 @@ author_profile: true
 <a href="https://arxiv.org/abs/2406.16525" class="blue-text">Paper</a> |
 <a href="https://github.com/HengGao12/OAML" class="blue-text">Code</a> |
 
+<ul>
+<li>
 <p><b>Towards Open-set Camera 3D Object Detection
 </b>
 <br />Zhuolin He, Xinrun Li, Heng Gao, Jiachen Tang, Shoumeng Qiu, Wenfu Wang, Lvjian Lu, Xiuchong Qiu, Xiangyang Xue, Jian Pu
