@@ -27,5 +27,4 @@ Education
 
 Misc
 ======
-* CCF Graduates.
 * Reviewer in NeurIPS2023.
