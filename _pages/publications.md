@@ -32,7 +32,7 @@ author_profile: true
 <li>
 <p><b>OAL: Enhancing OOD Detection Using Latent Diffusion (**)
 </b>
-<br /><strong>Heng Gao</strong>*, Zhuolin He, Shoumeng Qiu, Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
+<br /><strong>Heng Gao</strong>, Zhuolin He, Shoumeng Qiu, Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> Technical Report, 2024. <br /> 
 <a href="https://arxiv.org/abs/2406.16525" class="blue-text">Paper</a> |
 <a href="https://github.com/HengGao12/OAL" class="blue-text">Code</a> |  
