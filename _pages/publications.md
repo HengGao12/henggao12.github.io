@@ -10,8 +10,7 @@ author_profile: true
     }
 </style>
 
-<a>*</a> indicates co-first authour  
-<a>**</a> indicates revised and submitted to other conferences
+<a>*</a> indicates revised and submitted to other conferences
 
 <ul>
 <li>
@@ -30,7 +29,7 @@ author_profile: true
 
 <ul>
 <li>
-<p><b>OAL: Enhancing OOD Detection Using Latent Diffusion (**)
+<p><b>OAL: Enhancing OOD Detection Using Latent Diffusion (*)
 </b>
 <br /><strong>Heng Gao</strong>, Zhuolin He, Shoumeng Qiu, Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> Technical Report, 2024. <br /> 
