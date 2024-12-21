@@ -21,6 +21,10 @@ author_profile: true
 <a href="https://arxiv.org/pdf/2304.11393" class="blue-text">Paper</a> |
 <a href="https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet" class="blue-text">Code</a> |
 
+</p>
+</li>
+</ul>
+
 <ul>
 <li>
 <p><b>Detecting OOD Samples via Optimal Transport Scoring Function</b>
