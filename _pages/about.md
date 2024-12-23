@@ -13,4 +13,4 @@ Welcome to my personal homepage!
 I'm currently focusing on researches related to Artificial Intelligence.
 
 ## News
-Continuously updating...
+- 12/2024 One ICASSP paper accepted 
