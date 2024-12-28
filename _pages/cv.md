@@ -19,7 +19,7 @@ Research Experience
 * Multi-scan Point Cloud Segmentation, 2022.10-2023.1
   * Fudan University
   * Supervisor: Young Researcher, Jian Pu
-  * [SemantcKITTI Multiple Scans Segmentation Competition](https://codalab.lisn.upsaclay.fr/competitions/6280#results).
+  * Benchmark results: [SemantcKITTI Multiple Scans Segmentation Competition](https://codalab.lisn.upsaclay.fr/competitions/6280#results).
 
 Education
 ======
