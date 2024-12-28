@@ -14,6 +14,7 @@ Research Experience
 * A Biological Interpretable One-shot Pruning Framework for Spiking Neural Networks, 2023.3-2023.9
   * Fudan University
   * Supervisor: Professor, Yuguo Yu
+  * [Code](https://github.com/HengGao12/SNN).
 
 * Multi-scan Point Cloud Segmentation, 2022.10-2023.1
   * Fudan University
