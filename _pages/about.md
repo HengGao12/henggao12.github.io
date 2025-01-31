@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal homepage!  
 
-I'm currently focusing on researches related to Applied Mathematics and Artificial Intelligence.
+I'm currently focusing on researches related to **Applied Mathematics** and **Artificial Intelligence**.
 
 ## News
 - 12/2024 One ICASSP paper accepted 
