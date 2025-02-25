@@ -19,8 +19,8 @@ author_profile: true
 <li>
 <p><b>Detecting OOD Samples via Optimal Transport Scoring Function</b>
 <br /><strong>Heng Gao</strong>, Zhuolin He and Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
-<br /> IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2025. <br /> 
-<a href="https://arxiv.org/abs/2502.16115", class="blue-text">Paper</a> |
+<br /> IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2025. <br />
+<a href="https://arxiv.org/abs/2502.16115" class="blue-text">Paper</a> |
 <a href="https://github.com/HengGao12/OTOD" class="blue-text">Code</a> |
 
 
@@ -32,7 +32,7 @@ author_profile: true
 <li>
 <p><b>Knowledge Distillation from 3D to Bird’s-Eye-View for LiDAR Semantic Segmentation</b>
 <br />Feng Jiang, <strong>Heng Gao</strong>, Shoumeng Qiu, Haiqiang Zhang, Ru Wan and Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
-<br /> IEEE International Conference on Multimedia and Expo (<strong>ICME</strong>), 2023. <br /> 
+<br /> IEEE International Conference on Multimedia and Expo (<strong>ICME</strong>), 2023. <br />
 <a href="https://ieeexplore.ieee.org/abstract/document/10220057" class="blue-text">Link</a> |
 <a href="https://arxiv.org/pdf/2304.11393" class="blue-text">Paper</a> |
 <a href="https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet" class="blue-text">Code</a> |
