@@ -20,6 +20,7 @@ author_profile: true
 <p><b>Detecting OOD Samples via Optimal Transport Scoring Function</b>
 <br /><strong>Heng Gao</strong>, Zhuolin He and Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2025. <br />
+<a href="https://ieeexplore.ieee.org/abstract/document/10890502" class="blue-text">Link</a> |
 <a href="https://arxiv.org/abs/2502.16115" class="blue-text">Paper</a> |
 <a href="https://github.com/HengGao12/OTOD" class="blue-text">Code</a> |
 
