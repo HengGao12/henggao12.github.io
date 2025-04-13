@@ -11,10 +11,10 @@ redirect_from:
   
 Research Experience
 ======
-* A Biological Interpretable One-shot Pruning Framework for Spiking Neural Networks, 2023.3-2023.9
+* Exporter Hubs Drive Winner-Take-All Information Routing in Multilayer, 2023.3-2023.9, 2025.3-2025.4
   * Fudan University
   * Supervisor: Professor, Yuguo Yu
-  * [Code](https://github.com/HengGao12/SNN).
+  * Joint work with Yuzhou Jiang et al.
 
 * Multi-scan Point Cloud Segmentation, 2022.10-2023.1
   * Fudan University
