@@ -23,9 +23,6 @@ Research Experience
 
 Education
 ======
-* B.S. in Math and Applied Mathematics, College of Sciences, Shanghai University, 2018-2022.
-* M.S. in Applied Mathematics, Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, 2022-2025.
+* B.S. in Math and Applied Mathematics, College of Sciences, Shanghai University, 2018.9-2022.6.
+* M.S. in Applied Mathematics, Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, 2022.9-2025.6.
 
-Misc
-======
-* Reviewer in NeurIPS2023.
