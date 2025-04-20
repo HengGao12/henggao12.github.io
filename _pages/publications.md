@@ -47,6 +47,18 @@ author_profile: true
 
 # Preprints
 
+<ul>    
+<li>
+<p><b>Multi-modality Anomaly Segmentation on the Road
+</b>
+<br />Heng Gao, Zhuolin He, Shoumeng Qiu, Xiangyang Xue<sup><a title='Corresponding author'>✉</a></sup>, Jian Pu
+<br /> Technical Report, 2024. <br /> 
+<a href="https://arxiv.org/pdf/2503.17712" class="blue-text">Paper</a> |
+<a href="https://github.com/HengGao12/MMRAS plus" class="blue-text">Code</a> |
+</p>
+</li>
+</ul>
+
 <ul>
 <li>
 <p><b>Enhancing OOD Detection Using Latent Diffusion (*)
