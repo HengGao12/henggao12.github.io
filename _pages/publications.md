@@ -13,6 +13,16 @@ author_profile: true
 <a>*</a> indicates revised and submitted to other conferences
 
 
+<ul>
+<li>
+<p><b>Enhancing OOD Detection Using Latent Diffusion
+</b>
+<br /> The 15th ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>), 2025. <br /> 
+<a href="" class="blue-text">Paper</a> |
+<a href="https://github.com/HengGao12/OAL" class="blue-text">Code</a> |  
+</p>
+</li>
+</ul>
 
 
 <ul>
@@ -61,7 +71,7 @@ author_profile: true
 
 <ul>
 <li>
-<p><b>Enhancing OOD Detection Using Latent Diffusion (*)
+<p><b>Enhancing OOD Detection Using Latent Diffusion
 </b>
 <br /><strong>Heng Gao</strong>, Zhuolin He, Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> Technical Report, 2025. <br /> 
