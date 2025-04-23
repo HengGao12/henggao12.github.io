@@ -11,7 +11,7 @@ redirect_from:
   
 Research Experience
 ======
-* Exporter Hubs Drive Winner-Take-All Information Routing in Multilayer, 2023.3-2023.9, 2025.3-2025.4
+* Exporter Hub Principles in Multilayer Neural Networks, 2023.3-2023.9, 2025.3-2025.4
   * Fudan University
   * Supervisor: Professor, Yuguo Yu
   * Joint work with Yuzhou Jiang et al.
