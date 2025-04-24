@@ -14,7 +14,7 @@ Research Experience
 * Exporter Hub Principles in Multilayer Neural Networks, 2023.3-2023.9, 2025.3-2025.4
   * Fudan University
   * Supervisor: Professor, Yuguo Yu
-  * Joint work with Yuzhou Jiang et al.
+  * Joint work with Yuzhou Jiang et al., paper in preparation for submission
 
 * Multi-scan Point Cloud Segmentation, 2022.10-2023.1
   * Fudan University
