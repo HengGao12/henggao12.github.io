@@ -97,7 +97,7 @@ author_profile: true
 
 <ul>    
 <li>
-<p><b>Numerical-based Test-Time Adaptation Approach for Enhancing Brain Tumor Segmentation (Under Construction)
+<p><b>Numerical-based Test-Time Adaptation Approach for Enhancing Brain Tumor Segmentation (Under Construction) I think this is a waste of my time, but Professor Jianfeng Feng asked me to do this...
 </b>
 <br /><strong>Heng Gao</strong>
 <br /> Code Repository, 2025. <br /> 
