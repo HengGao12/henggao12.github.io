@@ -103,9 +103,6 @@ author_profile: true
 <br /> Code Repository, 2025. <br /> 
 <a href="" class="blue-text">Technical Report</a> |
 <a href="" class="blue-text">Code</a> |
-</p>
-</li>
-</ul>
 
 {% include base_path %}
 
