@@ -64,7 +64,7 @@ author_profile: true
 <br /><strong>Heng Gao</strong>, Zhuolin He, Shoumeng Qiu, Xiangyang Xue<sup><a title='Corresponding author'>✉</a></sup>, Jian Pu
 <br /> Technical Report, 2025. <br /> 
 <a href="https://arxiv.org/pdf/2503.17712" class="blue-text">Paper</a> |
-<a href="https://github.com/HengGao12/MMRAS plus" class="blue-text">Code</a> |
+<a href="https://github.com/HengGao12/MMRAS_plus" class="blue-text">Code</a> |
 </p>
 </li>
 </ul>
