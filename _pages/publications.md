@@ -93,16 +93,6 @@ author_profile: true
 </li>
 </ul>
 
-# Misc
-
-<ul>    
-<li>
-<p><b>NbTTA: A Numerical-based Test-Time Adaptation Approach for Enhancing Brain Tumor Segmentation (Under Construction)
-<br /><strong>Remark.</strong> I think this is a waste of my time, but Professor Jianfeng Feng asked me to do this...
-<br /><strong>Heng Gao</strong>
-<br /> Code Repository, 2025. <br /> 
-<a href="" class="blue-text">Technical Report</a> |
-<a href="" class="blue-text">Code</a> |
 
 {% include base_path %}
 
