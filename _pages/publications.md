@@ -69,17 +69,6 @@ author_profile: true
 </li>
 </ul>
 
-<ul>
-<li>
-<p><b>Enhancing OOD Detection Using Latent Diffusion
-</b>
-<br /><strong>Heng Gao</strong>, Zhuolin He, Jian Pu<sup><a title='Corresponding author'>✉</a></sup>
-<br /> Technical Report, 2025. <br /> 
-<a href="" class="blue-text">Paper</a> |
-<a href="https://github.com/HengGao12/OAL" class="blue-text">Code</a> |  
-</p>
-</li>
-</ul>
 
 <ul>    
 <li>
