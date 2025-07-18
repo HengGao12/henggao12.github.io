@@ -18,7 +18,7 @@ author_profile: true
 <p><b>Enhancing OOD Detection Using Latent Diffusion
 </b>
 <br /> The 15th ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>), 2025. <br /> 
-<a href="" class="blue-text">Paper</a> |
+<a href="https://dl.acm.org/doi/abs/10.1145/3731715.3733326" class="blue-text">Paper</a> |
 <a href="https://github.com/HengGao12/OAL" class="blue-text">Code</a> |  
 </p>
 </li>
