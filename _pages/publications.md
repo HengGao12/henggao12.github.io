@@ -88,7 +88,7 @@ author_profile: true
 
 <ul>    
 <li>
-<p><b>Multi-modality Anomaly Segmentation on the Road
+<p><b>Remarks on the Existence Problem of Weak Solutions to Stationary Navier-Stokes Equations in the Exterior Domain
 </b>
 <br /><strong>Heng Gao</strong>
 <br /> Remarks, 2025. <br /> 
