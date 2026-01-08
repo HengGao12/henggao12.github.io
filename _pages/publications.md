@@ -91,7 +91,7 @@ author_profile: true
 <p><b>Remarks on the Existence Problem of Weak Solutions to Stationary Navier-Stokes Equations in the Exterior Domain
 </b>
 <br /><strong>Heng Gao</strong>
-<br /> Remarks, 2025. <br /> 
+<br /> Remarks, last edited on Jan 8th, 2026. <br /> 
 <a href="https://github.com/HengGao12/henggao12.github.io/blob/master/files/Remarks_on_the_Existence_Problem_of_Weak_Solutions_to_Stationary_Navier_Stokes_Equations_in_the_Exterior_Domain.pdf" class="blue-text">Paper</a> |
 </p>
 </li>
