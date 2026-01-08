@@ -84,6 +84,19 @@ author_profile: true
 </li>
 </ul>
 
+# Notes on Partial Differential Equations
+
+<ul>    
+<li>
+<p><b>Multi-modality Anomaly Segmentation on the Road
+</b>
+<br /><strong>Heng Gao</strong>
+<br /> Remarks, 2025. <br /> 
+<a href="https://github.com/HengGao12/henggao12.github.io/blob/master/files/Remarks_on_the_Existence_Problem_of_Weak_Solutions_to_Stationary_Navier_Stokes_Equations_in_the_Exterior_Domain.pdf" class="blue-text">Paper</a> |
+</p>
+</li>
+</ul>
+
 
 {% include base_path %}
 
