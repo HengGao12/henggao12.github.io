@@ -92,7 +92,7 @@ author_profile: true
 </b>
 <br /><strong>Heng Gao</strong>
 <br /> Remarks, last edited on Jan 8th, 2026. <br /> 
-<a href="https://github.com/HengGao12/henggao12.github.io/blob/master/files/A_NOVEL_APPROACH_FOR_PROVING_THE_EXISTENCE_OF_WEAK_SOLUTIONS_TO_STATIONARY_NAVIER_STOKES_EQUATIONS_IN_THE_EXTERIOR_DOMAIN-6.pdf" class="blue-text">Paper</a> |
+<a href="https://github.com/HengGao12/henggao12.github.io/blob/master/files/A_NOVEL_APPROACH_FOR_PROVING_THE_EXISTENCE_OF_WEAK_SOLUTIONS_TO_STATIONARY_NAVIER_STOKES_EQUATIONS_IN_THE_EXTERIOR_DOMAIN_Heng%20Gao.pdf" class="blue-text">Paper</a> |
 </p>
 </li>
 </ul>
