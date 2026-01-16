@@ -92,7 +92,7 @@ author_profile: true
 </b>
 <br /><strong>Heng Gao</strong>
 <br /> Remarks, last edited on Jan 16th, 2026.
-<br /> "It is what it is."  —— Julien Guillod <br />
+<br /> "It is what it is. From zero to zero."  —— Julien Guillod <br />
 <a href="https://github.com/HengGao12/henggao12.github.io/blob/master/files/Navier-Stokes_equations-2D.pdf" class="blue-text">Paper</a> |
 </p>
 </li>
