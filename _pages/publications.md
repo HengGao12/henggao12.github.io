@@ -91,7 +91,7 @@ author_profile: true
 <p><b>A Novel Approach for Proving the Existence of Weak Solutions to Stationary Navier-Stokes Equations in the Exterior Domain
 </b>
 <br /><strong>Heng Gao</strong>
-<br /> Remarks, last edited on Jan 16th, 2026. <br />
+<br /> Remarks, last edited on Jan 16th, 2026.
 <br /> "It is what it is."  —— Julien Guillod <br />
 <a href="https://github.com/HengGao12/henggao12.github.io/blob/master/files/Navier-Stokes_equations-2D.pdf" class="blue-text">Paper</a> |
 </p>
