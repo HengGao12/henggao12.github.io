@@ -84,19 +84,6 @@ author_profile: true
 </li>
 </ul>
 
-# Notes on Partial Differential Equations
-
-<ul>    
-<li>
-<p><b>A Novel Approach for Proving the Existence of Weak Solutions to Stationary Navier-Stokes Equations in the Exterior Domain
-</b>
-<br /><strong>Heng Gao</strong>
-<br /> Remarks, last edited on Jan 16th, 2026.
-<br /> "It is what it is. From zero to zero."  —— Julien Guillod <br />
-<a href="https://github.com/HengGao12/henggao12.github.io/blob/master/files/Navier_Stokes_equations_2D.pdf" class="blue-text">Paper</a> |
-</p>
-</li>
-</ul>
 
 
 {% include base_path %}
