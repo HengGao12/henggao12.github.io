@@ -90,7 +90,7 @@ author_profile: true
 <p><b>A Novel Approach for Proving the Existence of Weak Solutions to Stationary Navier-Stokes Equations in the Exterior Domain
 </b>
 <br /><strong>Heng Gao</strong>
-<a href="[https://arxiv.org/pdf/2406.17297](https://www.researchgate.net/publication/416071601_A_NOVEL_APPROACH_FOR_PROVING_THE_EXISTENCE_OF_WEAK_SOLUTIONS_TO_STATIONARY_NAVIER-STOKES_EQUATIONS_IN_THE_EXTERIOR_DOMAIN)" class="blue-text">Paper</a> |
+<a href="https://www.researchgate.net/publication/416071601_A_NOVEL_APPROACH_FOR_PROVING_THE_EXISTENCE_OF_WEAK_SOLUTIONS_TO_STATIONARY_NAVIER-STOKES_EQUATIONS_IN_THE_EXTERIOR_DOMAIN" class="blue-text">Paper</a> |
 </p>
 </li>
 </ul>
