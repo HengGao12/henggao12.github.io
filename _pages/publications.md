@@ -97,6 +97,18 @@ author_profile: true
 </ul>
 
 
+<ul>    
+<li>
+<p><b>On the Stochastic Representation of the Solution to the Second-order Parabolic Cable Equation
+</b>
+<br /><strong>Heng Gao</strong>
+<br /> Preprint, 2026. <br /> 
+<a href="https://www.researchgate.net/publication/416182633_On_the_Stochastic_Representation_of_the_Solution_to_the_Second-order_Parabolic_Cable_Equation" class="blue-text">Paper</a> |
+</p>
+</li>
+</ul>
+
+
 
 {% include base_path %}
 
